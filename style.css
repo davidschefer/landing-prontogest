@@ -854,3 +854,9 @@ select {
     align-items: flex-start;
   }
 }
+.hero-contact-note {
+  margin-top: 12px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.78);
+}
